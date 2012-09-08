@@ -7,8 +7,8 @@ The RootSys file can then be used to run simulation in R-SWMS with an experiment
 
 ## Specification
 
-Java (for the script)
-SQL database (for data storage)
-SmartRoot (http://www.uclouvain.be/en-smartroot)
-ImageJ (http://rsb.info.nih.gov/ij/index.html)
+- Java (for the script)
+- SQL database (for data storage)
+- SmartRoot (http://www.uclouvain.be/en-smartroot)
+- ImageJ (http://rsb.info.nih.gov/ij/index.html)
 
